@@ -1,11 +1,11 @@
-###2016���о�����ѧ��ģ����B��
+###2016年研究生数学建模比赛B题
 
-<p>�����Ŵ��Լ�������״���Ŵ�λ�����</p>
+<p><strong>具有遗传性疾病和性状的遗传位点分析</strong></p>
 
-���ջ��ȫ�����Ƚ�
+最终获得全国二等奖
 
-��Ҫ���ߣ�Matlab/Python
+主要工具：Matlab/Python
 
-Pythonʹ����scikit-learn
+Python使用了scikit-learn
 
-��Ҫ�㷨�У�Random Forest��PCA
+主要算法有：Random Forest和PCA
